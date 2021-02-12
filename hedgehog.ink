@@ -21,7 +21,6 @@ Fjon was a little creature. Cute and a bit spiky. Nothing unusual since Fjon was
 
 // This is the first szene, a knot (easily identified by ===. Could also be written as === Hej ===)
 
-
 === Hej
   #hej
   After kind of a rough night (you had a couple of beers in front of the laptop to celebrate finishing an exciting and challenging project with your colleagues), you're trying to get a clean head wandering around in the nearby forest, when you suddenly hear an ear-piercing tone:
@@ -93,7 +92,9 @@ Fjon was a little creature. Cute and a bit spiky. Nothing unusual since Fjon was
 
 === hedgehogs_can_speak(guiltyCodegrammer)
   #choosen
-  "You really believe {guiltyCodegrammer} would do that? Don't you know that Hedgehogs can talk - IF THEY decide to let YOU hear them?" And with that, the hedgehog comes a little bit closer. #hedge
+  The hedgehog looked grumpy.
+  "You really believe {guiltyCodegrammer} would do that? Don't you know that Hedgehogs can talk - IF THEY decide to let YOU hear them?" #hedge
+  And with that, the hedgehog comes a little bit closer.
   "I'm Fjon, by the way.", he says. #hedge
     * [You stay where you are] -> stay_and_sit_down
     * [You leave] -> hurry

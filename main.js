@@ -42,6 +42,7 @@
       // Create paragraph element
       var paragraphElement = document.createElement("p");
 
+      // create classes for choices
       paragraphElement.classList.add(story.currentTags[0]);
       paragraphElement.innerHTML = paragraphText;
       storyContainer.appendChild(paragraphElement);

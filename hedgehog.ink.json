@@ -551,6 +551,8 @@
           {
             "#": "choosen"
           },
+          "^The hedgehog looked grumpy.",
+          "\n",
           "^\"You really believe ",
           "ev",
           {
@@ -558,10 +560,12 @@
           },
           "out",
           "/ev",
-          "^ would do that? Don't you know that Hedgehogs can talk - IF THEY decide to let YOU hear them?\" And with that, the hedgehog comes a little bit closer. ",
+          "^ would do that? Don't you know that Hedgehogs can talk - IF THEY decide to let YOU hear them?\" ",
           {
             "#": "hedge"
           },
+          "\n",
+          "^And with that, the hedgehog comes a little bit closer.",
           "\n",
           "^\"I'm Fjon, by the way.\", he says. ",
           {
